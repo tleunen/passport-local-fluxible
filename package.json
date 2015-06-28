@@ -1,0 +1,37 @@
+{
+  "name": "passport-local-fluxible",
+  "version": "0.1.0",
+  "description": "Fluxible compatible Local Passport strategy",
+  "keywords": [
+    "passport",
+    "local",
+    "auth",
+    "authn",
+    "authentication",
+    "username",
+    "password",
+    "fluxible"
+  ],
+  "author": {
+    "name": "Tommy Leunen",
+    "email": "tommy.leunen@gmail.com",
+    "url": "http://tommyleunen.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tleunen/passport-local-fluxible.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jaredhanson/passport-local-fluxible/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-strategy": "1.x.x"
+  }
+}
